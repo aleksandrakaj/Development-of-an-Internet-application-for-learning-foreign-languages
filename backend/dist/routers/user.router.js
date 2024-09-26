@@ -1,0 +1,26 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = __importDefault(require("express"));
+const user_controller_1 = require("../controllers/user.controller");
+const userRouter = express_1.default.Router();
+userRouter.route('/login').post((req, res) => new user_controller_1.UserController().login(req, res));
+userRouter.route('/register').post((req, res) => new user_controller_1.UserController().register(req, res));
+userRouter.route('/getUserWithUsername').post((req, res) => new user_controller_1.UserController().getUserWithUsername(req, res));
+userRouter.route('/getRegReqWithUsername').post((req, res) => new user_controller_1.UserController().getRegReqWithUsername(req, res));
+userRouter.route('/getUserWithEmail').post((req, res) => new user_controller_1.UserController().getUserWithEmail(req, res));
+userRouter.route('/changeFirstName').post((req, res) => new user_controller_1.UserController().changeFirstName(req, res));
+userRouter.route('/changeLastName').post((req, res) => new user_controller_1.UserController().changeLastName(req, res));
+userRouter.route('/changeUsername').post((req, res) => new user_controller_1.UserController().changeUsername(req, res));
+userRouter.route('/changeEmail').post((req, res) => new user_controller_1.UserController().changeEmail(req, res));
+userRouter.route('/changeAddress').post((req, res) => new user_controller_1.UserController().changeAddress(req, res));
+userRouter.route('/changePhoneNumber').post((req, res) => new user_controller_1.UserController().changePhoneNumber(req, res));
+userRouter.route('/changePassword').post((req, res) => new user_controller_1.UserController().changePassword(req, res));
+userRouter.route('/changeProfilePic').post((req, res) => new user_controller_1.UserController().changeProfilePic(req, res));
+userRouter.route('/acceptRegister').post((req, res) => new user_controller_1.UserController().acceptRegister(req, res));
+userRouter.route('/getRegisterRequests').get((req, res) => new user_controller_1.UserController().getRegisterRequests(req, res));
+userRouter.route('/deleteRegisterRequest').post((req, res) => new user_controller_1.UserController().deleteRegisterRequest(req, res));
+userRouter.route('/sendEmail').post((req, res) => new user_controller_1.UserController().sendEmail(req, res));
+exports.default = userRouter;
