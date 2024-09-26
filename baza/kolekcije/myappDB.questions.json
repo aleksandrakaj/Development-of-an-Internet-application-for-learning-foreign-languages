@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a62"
+  },
+  "language": "English",
+  "question": "Nouns that indicate the names of people, countries and places are called:",
+  "answers": [
+    "Proper nouns",
+    "Common nouns",
+    "Abstract nouns"
+  ],
+  "mul": "y",
+  "correct": "Proper nouns"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a63"
+  },
+  "language": "English",
+  "question": "Plural of the nouns bus and sheep are:",
+  "answers": [
+    "buss, sheep",
+    "buses, sheep",
+    "buses, sheeps"
+  ],
+  "mul": "y",
+  "correct": "buses, sheep"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a64"
+  },
+  "language": "English",
+  "question": "We use definite article THE when talking about a person \n we do not know or whom we are mentioning for the first time.\n Example: There is THE boy in the street.",
+  "answers": [],
+  "mul": "tf",
+  "correct": "False"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a65"
+  },
+  "language": "English",
+  "question": "Which sentence is correct?",
+  "answers": [
+    "Tom plays a football very well.",
+    "Tom plays the football very well.",
+    "Tom plays football very well."
+  ],
+  "mul": "y",
+  "correct": "Tom plays football very well."
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a66"
+  },
+  "language": "English",
+  "question": "Only the first three ordinal numbers in the English language do not end with the suffix -th.",
+  "answers": [],
+  "mul": "tf",
+  "correct": "True"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a67"
+  },
+  "language": "English",
+  "question": "We use ordinal numbers for centuries.\n Example: The 21st century.",
+  "answers": [],
+  "mul": "tf",
+  "correct": "True"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a68"
+  },
+  "language": "English",
+  "question": "Fill in the gap with necessary article:\n I am ___ student.",
+  "answers": [],
+  "mul": "n",
+  "correct": "a"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a69"
+  },
+  "language": "English",
+  "question": "Fill in the gap in the conditional sentence (verb boil):\n The water ___ if you heat it to 100 degrees.",
+  "answers": [],
+  "mul": "n",
+  "correct": "boils"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a6a"
+  },
+  "language": "English",
+  "question": "Solve the comparation:\n Bad - worse - the ___",
+  "answers": [],
+  "mul": "n",
+  "correct": "worst"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a6b"
+  },
+  "language": "English",
+  "question": "Write the personal pronounce WE to fill in the blank:\n Maria wants ___ to bre there at 5.",
+  "answers": [],
+  "mul": "n",
+  "correct": "us"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a6c"
+  },
+  "language": "English",
+  "question": "Choose the correct conditional.",
+  "answers": [
+    "If I had a car, I would visit you tomorrow!",
+    "If I have a car, I visit you tomorrow!",
+    "If I had had a car, I would've visited you tomorrow!"
+  ],
+  "mul": "y",
+  "correct": "If I had a car, I would visit you tomorrow!"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a6d"
+  },
+  "language": "Serbian",
+  "question": "Select a noun that has feminine gender",
+  "answers": [
+    "more",
+    "kolač",
+    "haljina"
+  ],
+  "mul": "y",
+  "correct": "haljina"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a6e"
+  },
+  "language": "Serbian",
+  "question": "Number one(1) - in nominative, masculine gender is:",
+  "answers": [
+    "jedna",
+    "jedan",
+    "jedni"
+  ],
+  "mul": "y",
+  "correct": "jedan"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a6f"
+  },
+  "language": "Serbian",
+  "question": "Possessive pronouns are obtained by aksing:",
+  "answers": [
+    "ČIJI?, ČIJA?, ČIJE?",
+    "KO, šTA",
+    "KOJI, ČIJI"
+  ],
+  "mul": "y",
+  "correct": "ČIJI?, ČIJA?, ČIJE?"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a70"
+  },
+  "language": "Serbian",
+  "question": "Select one impersonal verb form:",
+  "answers": [
+    "Prezent",
+    "Aorist",
+    "Infinitiv"
+  ],
+  "mul": "y",
+  "correct": "Infinitiv"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a71"
+  },
+  "language": "Serbian",
+  "question": "There are seven cases in Serbian language",
+  "answers": [],
+  "mul": "tf",
+  "correct": "True"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a72"
+  },
+  "language": "Serbian",
+  "question": "We write 1.,2.,3. instead of 1,2,3.",
+  "answers": [],
+  "mul": "tf",
+  "correct": "False"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a73"
+  },
+  "language": "Serbian",
+  "question": "Possessive adjectives derived from proper nouns\n are written with a capital letter.",
+  "answers": [],
+  "mul": "tf",
+  "correct": "True"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a74"
+  },
+  "language": "Serbian",
+  "question": "All basic numbers can be changed by cases.",
+  "answers": [],
+  "mul": "tf",
+  "correct": "False"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a75"
+  },
+  "language": "Serbian",
+  "question": "Fill in the gap:\nThe first Grammar case in Serbian is ___.",
+  "answers": [],
+  "mul": "n",
+  "correct": "nominativ"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a76"
+  },
+  "language": "Serbian",
+  "question": "Make comparative from adjective skup - ___.",
+  "answers": [],
+  "mul": "n",
+  "correct": "skuplji"
+},
+{
+  "_id": {
+    "$oid": "66d631a76d39de22d7d95a77"
+  },
+  "language": "Serbian",
+  "question": "Plural of the word krompir is ___.",
+  "answers": [],
+  "mul": "n",
+  "correct": "krompiri"
+}]

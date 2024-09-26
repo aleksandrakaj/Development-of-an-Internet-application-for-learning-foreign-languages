@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66717a2f23c923a4b00abe43"
+  },
+  "firstName": "Stefan",
+  "lastName": "Mirkovic",
+  "username": "stefi",
+  "password": "sefi123",
+  "email": "stefi@mail.com",
+  "address": "Pekarska 13a",
+  "type": 0,
+  "phoneNumber": "0646573345",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e041441c83748b1c0a7d3f"
+  },
+  "firstName": "Marija",
+  "lastName": "Martinović",
+  "username": "maki",
+  "password": "maki123",
+  "email": "marija@gmail.com",
+  "address": "Kneza Milosa 4",
+  "type": 0,
+  "phoneNumber": "0647869983",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e041aa1c83748b1c0a7d44"
+  },
+  "firstName": "Jelena",
+  "lastName": "Jovanovic",
+  "username": "jeca",
+  "password": "jeca123",
+  "email": "jelena123@yahoo.com",
+  "address": "Milutina Milankovica 129",
+  "type": 0,
+  "phoneNumber": "0654323455",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+}]

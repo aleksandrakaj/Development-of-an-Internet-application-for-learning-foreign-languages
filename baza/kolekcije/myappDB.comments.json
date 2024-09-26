@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66816b1aded097c3354df5b4"
+  },
+  "text": "Stranica je odlična za početnike jer je sve lepo objašnjeno!",
+  "date": "6/30/2024",
+  "user": "perica",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e045eb61697e4eaf28ae70"
+  },
+  "text": "<p><strong>Veoma korisno!</strong></p><p>Testovi bazirani na sadržaju.</p>",
+  "date": "9/10/2024",
+  "user": "ivan02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e0474a61697e4eaf28ae77"
+  },
+  "text": "<p><i>Dopada mi se :)</i></p>",
+  "date": "9/10/2024",
+  "user": "ana",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e5b50a73f85a2bbd7cd8ea"
+  },
+  "text": "<p><strong>Super!</strong></p><p>Svidja mi se</p>",
+  "date": "9/14/2024",
+  "user": "perica",
+  "__v": 0
+}]

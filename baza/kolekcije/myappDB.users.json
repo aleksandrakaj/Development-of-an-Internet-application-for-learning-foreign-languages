@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6669a7f9996cf8bd308ddeff"
+  },
+  "firstName": "Pera",
+  "lastName": "Perovic",
+  "username": "perica",
+  "password": "pera1234",
+  "email": "pera123@gmail.com",
+  "address": "Prvomajska 16",
+  "type": 0,
+  "phoneNumber": "0654343329",
+  "imageData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAMAAADDpiTIAAAALVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACttl6nAAAADnRSTlMACxstP1RngJitwtXo9ewpsWEAABWrSURBVHja7NxZcuQwCAZgbYAWxP2PO6lZHqYqlTi2um1J/3eEBguwRbt9+BATseRSaq2tqfZuv/Wu2lqttZQsTCkG72AZIbHk2rr9SG81C6eA329aIZHkqnaR1iyERJiKT5ybDdYyJ1SGx4sktdvL9CoU8Ss/U6Dc7C1aJpSEZ4lcur1VL4yj4BF8kmo3qYK24F5Jmt2sSUIcbhG42EMURk9w96OPg2Afnoo9UiF0BO+LPnIA0UcOIPrIgV2kYlMp6AkHCqI2HRXMhmNQsUkVQvSuCtJtYh3HwCVUbXoVx8CIhx/HwG5itoVkfDseP/VhLlwWNVtQQzNwiGe1RSnjDeF3vNjSBCnwffiRApvy3G0DHYXgq/AjBTbFahtRRsQ/CT9SYFOp2bt0rSXLB2YmovSBiJhZPuRStdu7NLwa+iMUezWtWQ7v/fsQDywWj1DwjcA5Ly8PfLi4YY6Z8IW422vUzMmPWzev9hqdUfxH0yIU3HCBpChagYcX/3Yg9hezoKEVGIRtrCLJv2kfudhY7PYTmw309m39yMUGahG9/2l605a+T6KYB85JOnAze5EddU1uFz7bED0n9wApdxsie7cF6kOjv1AOdMLsd1BO7mFSxkR4BA2M/pI5QKj+X6vk3WN5qugEvhDVrukS3cNF6XaNRrcoGfnwr3wMiFtRqFcX7PZZa6wB3d//GrvJcEMvOKz7q8lNKFX0gv9E3XKzNmb0gpePfwluYkFQBpyTnTcoPPfNp4FQN/9E6mXraSAqvpB72bcRYIT/Wgrw5NMfwv+Xlw3nwdDslBzcgkK2U1rYrPzX6BYV61aNQLIzlNzCSO2MtE/7x94tzfMuraCg+I9sBcRNpqD4j20FincT8RX7UaPLY/VuGkFxH3b83WgNbhKx40b8K7YjenRTSLgJe4TPi46DCVtxByVdMQMI7/0P87LeJRHC4//aQ4AWm2+Kd1vzZalpmbEJ92O0UAYI9h9OCHWV18KCDaitfzjBDuRZURfIAEH3d54v02cA4/h/5/PDk8cf/5R+9Q0qzzzLNHT/nwht3gma8OlnAJ9nzYCEix93FNI0Zfw7yv8XUp8wA6L9gKL8D7xMFd0DhG7HVZT/kdcpe3C382rHZQT4e9mOU/+rvTNdz2RVobA4z/d/uWd+zu7d6a/QsixJ1vu7h6RAWCDq+w6L7s9qgqSQGrH3ux4nJ6gGdP+ewEoJqx6bf89gqoi+ikX59xS6CgitBt3/M3YGzPFOWlD+D0Pl8PBKBe2fR6F89gKLsP85HhDVdjyGv04aFPPnCsAEQ86TThWCusL+W0iHCsEM+5/mAVltJMjVf2SsDzGX1nstOcXgvdOyleD+nrATan8Tcv+SmryR7wFObcJI7P8Ynxhv0Z4IlcOEIFVp9icfW2fQopHnAfvHQ6Kw/R8bpb9PpetJ/SAnyv7kSx+jekkesF8G6M7ECHi2S8ytNaYz0cd0AKzkJ1yzkTojlE/pADgBN7OLOr7mzugGGCnzv7bIfsN7fumZEyrAKODVVnFD7PGAWjByE9GrmNQZyJtjy6+vPsf1QQEPMghQsrPx171cATYtIFWKPMqu27u1YDp/2ZjS1xIkFoPp1QTgRVy+LHSgzb+YBKh1DlHG8ueTSV4p0Oi1/7qQkOXPJ5O8ncH4WvrRAi5eF+0BurOwL5UgVsAFW8I9wL5TioejNbMuvQvwAMGmMEePALv+NEneoLBRKykndwBDf54griNY9n9iI+C9hWmcuPGQsFt5BgFXK97AipMBem/SyTLDPx8jbWMw7S08tJBHqufJ0RuS1A2wOxWgE1398akpeC1kQqxs3ICIAh6pXkcJRsSmgN+2CVRJVvUv3weo7toUCodKZN/fpgR9eks4bJIb4YwQuJ9A6jXCHmmejkwAlPohBDo6CaQtgcYKkf/yXWC/bcqJFYCu/Sj8wZVAeV5pN/p+9pfxCja1xxs0tV/jxNl/Pc0d2w6qT5daCfafPk26RaL7h3Wmhv3/TTGH7glUejQAeNh/Qy7cbSK+xsiw/7vVQOao9Ae9y8D+73qA6df45wJAhP3f9oD4WAgI/RoN+7/tAfqpvRrq13jY/+/4I3UgPRMAKsH+v+FP3BQKzwQAB/t/gTmxH0hPBJYM+5+xOZ6fiEuV4eqw/5ekA0vB+kBYibD/KTIgrk/XpV+i98scyIDpUrAsHzYJ+3McZMCNks2u3makjQFOHEHthRYrE3PSrxi6QPR5IcCsXXP0QpWLSuBOCIhLNUXYXuJAB34krIxK4ZxBUN26TPJ5A6Jh4b/l912LJxV73J5Qo2VZtxEKwCvqeSHALfvqHgXgNe64EJCXSUDa/CuhEFhTCOhFEjDsP/uGXsA+w7V+hUYByMEftyPQ1kjAiB1AFuW8TUG3ZBvAoADkYY6bC0gr4khGAcAkqs3kBdk7nNLhsKmLR23GLpCB9ZzMRj4jB4xRbren7Fn9DZNQB6zdOrV3JWBTezEZvaAB2s0fiQ68Ec6WLpWmdhNudnHdiIzETNB5X0vfTOFprAbEVNBxJwXzrRxApz6coQs6ATzcrRzgxpMaJkM+UdR22p01nAYkIC4H46C2E27kAJrpbGA69BN04HciZgbgS0CMB5xUNOX5HJCm/ipOCH3AHlgypfkMQOpNCIOBHObN6OaLGswIHnR1YJz1ynT824kVp0QZ2NkcMFjToCd8ZCdo3pCW8cu8jIYDcIhzoTxMZwBcFXGWA9i5xFQ4bWDIQAnPzreZDrXmOjOaQcc7QJzpT3lmBkArYAR/5jrxE0VgUydQ4AAc2kQhyM4AaAef7wBxvBC0rAyATsDhreB5awaGz6AMYHDGshkXp2U4a2A6kAGpd0ijhSBxkhnqwFHqsZGSRj+shgNMkI9tmttBCVAUHGCCcGy9HAab7AEOMIM7tlzKg6rRKojACcy5K2VwlJTgADPQuU1zMyQak4IDiDgXwi8E/difhgNI0IDza7r1zxg4gAwJwM/qbahqVEqhFSyiDcTX9XpgXSU4wAxBvUkaKFEj5zfBbuAo5uhPFQfaRhYOMEE7u2dWBtIFwQEmiOpViC/sDMtXMBE0iDl8fM6wNWBQx5CwE7gsWjr+n4QDCBoGmljXmVsx4mgQn3L8QbrM7QNWBQeQsxPMP0zduHIxwQHGKQLyJTELxgAHGMcJqJkts73q4ADDVAk7Z55ZW2s4gKQAwFeBkdkwUAqNoEGiOgKmTmFUC2gFD9FIiThKyw8U2A4WlwD4yd1ypAImggaIUpaLZX1Tq/4PromSkgBYa9ux0iqpk2hIAHyI1eGJjIoWu0F8ojqHyvlR82URABU4QFJnwLdt5Ts0rom6pJA6A350Z+QJtIK4VK1OIjAaAXpK0uDlkC9pWh2FYzQCrJwq0KWGMUA+TON6KVtBOmMKbHXbxDPSBDYC+aTgSJ0CV+Cl/pGKJvAYySo5jYDEKBXRARolkKhGQOkfiegBD1NIStFcrj9sQPU3TiYhjYB2LRMcWsATBCnKSSnC9WBPoIU0AkhpOMA88u9V1Je5VeOGyBmqkE6QuY4REIFycwAjw1+GVsyCCd4V4Gh8z73mBM/GDmFltE/8VaFYMQcwh5OxbsLVd80YCJ/Dy+gFx6sWe8IsmGwHSJcOwNkKwJOBw1gZmTNdhYiAY4FzaBlfLXMcAK2gcZqCAywHr0U94ABXmdXjUNAUQchBmnLpADgUNIUR4wD1wgFwImCGImXVVIYDoBAcx8txgNY/4nAwdAaS0kBtlw6Ag6ETRCXHAfpnHA6GTmDEOEC/cgCLg6HjFHUO9r4DQAaO4uAAT+FxS+BmB3C4H+ROF1C+BnC4H2QYLcoB2nVHA/cEDhElJc3GcACogDGMKAe4Hho8DCrYCF64HVy5DoC5EC5WlgOwrgfAXaF8shLlAEWgA1BGAFh4Q0RmjIUfBkUEgFXxMvMdAO+GMGhGngOwPBrFoLCLYvm3RCWRDqB0qP04slbSHCBdOUBRx2J9SLmfQEop5+hIHUi5coC55yJwaJzR/JfxZESYOOGChyR/hdShcG4B9IM3hGB3UNY36p/x/CtiUA5IjJLX2/123AHwjuCvFMEOYIevicP7IbxSWcw1cXpmdxtHhhn7JUIuiqT+GYcy4AonOEXS5RIKUIGDI0DSng1rV/ENIuACwWVyu+4VZgURIPgL5esCJg/1gjEg9BtBcKs8Mz6gQidAcKHMeOg4TPx+eFBeSAbQjOjlB4bcMB70O14JbgN4xp9xCnXAJ0hyfrS8KIFe0Kcseizc/D7a6MRRkb9iRO+W8yoFhACZy4NR4zP/EFSAwBqJtbi5YQLNIIECiZPemULheHR775Fg0W0AbqkAHShwbXBKfHazQKEbJKxFwlvb7DiBSkDkh4m8CHbZ7JYANWwCDK8K5u2LSinIgN9oWh0Pc5w5MptdGA4Tpo0Ns4vlOSoQ3QBpAoBvWMtud+KcmChlHJlBjC5TBTyAYX95R6eJO1ND8ACJ9if2mcbMCxVoCAmxPzO1Z/ZXCwoeIPBz8M3qLqde4AECl0Nid7INI1mIQcP+TGln+KdrNCKAvJJIDxxpK4xgIQTaMAUsAzfgyvH7qEC3aQ9YfiiMA18tKzGUTWOg8rcC3US6wHyoCEXMF3Z8wQgJKOdb8Es7fsno0QuWJoh8/0wa+9OQANIKwTy0pg23+MF9IUK6IjSYyfoFDhpQVj50/YLBgBExGMj4FoLEUB5Uzw1VgKwygCll+UvHYjBQQBUwb0/i/No4IfJPKn2LSEij9VNV5+HMC2/LOsbP8T5luJYN4oofnb8uyXXdfB6IWg+kjkKPB3QrrPih0P+J3+0BTX/dc2tOnYSfkHSyjsK59h970ObHZc0fTyVmI0kIzchnUsdg8kVNHvsz2E+rLZKYNmCaiRruyLeDzc6Dgu7z8YvmpbQB/YxuSEfmt7JxMihc/jjFytgT1VMbaeoEbGGKU1P6Yhzn/FW2AuaBy1zvwB5g/sz05vVpoBnmf5LN8W3AMPfX4gHa7wsyfegUPP0wNNX+O8moXSxdyodPw5k0Lk5c62uIjK2HY1ygTSbzdHIOMGlqn0LHvoBih7NMMufWAGn+L76FjtNdSh36XfxUss1OvUOeLejp1GEoE2/1KCj0O0SavaC0elL70fOHm9KRe8I23b6yiUKdNr+5tfMc9HkSMM0nj6q248qaMR0bOw/+Eg5cD9pLnQ+X1A+TgeQr21ZGXeFSHyLZNacQy9ZMYO8cb01HyUAd2uJTm+Ri6SxqdLRw/jRatYH7NnQHyUCbnhnWIxeunCB5vfwUct2kBvSthUKnTESSL32cRIoHGRdibv3vtBy91U9NHydHJ9yXSrfiR91U9s1RtBqBjLHW+X/hrDWaHj+CmBy9LQHTzcBmj1v8+1UqpT5PfNQH7E2pRP1lGejS+ee2KHcm+yVhvHvFTXpTBtrYlvft12NqZ7DHB9YvYPvaEjOh9jVE/ew08hraEz7g7+fI+ooM1L7IOL9ra19HC0atpdy3Xtivs8jlzuCAPKBTX0xd6gNmQRmvd8tAG/sTRL0hwO73gQ0KLu08Hm1i60+RzIaBtDWUoPcEgLTkpsW0V/bNU5xaBiNNve4Dac0tl61fYTbLvnla0Bt2JReRPT0cANqiSzbi/Q+a+wI27cfrKOOHTYt2cvTD92SRS30rNdhdu5J81g8PmGV2y0+GABP7buZ3YbRPfT9BP9QFzusu3NbHSCk+eazcIsvQqAe5gF530Tm1Z0KADrW/TI7ekLpEW5/7qwS9PgA0WnjXmp5poh9CTcFp+uOkSCr9BAKtDgBh5T8WTzU/n1ZLjjF470MIMaaUS+0HUe3aAND16n+ND/nWwTBRv7VmzeJ/rsCYUzS3cMkaNUBaGQICLDlNolUBIK2+dDli+e+grBpStmqIsioEeNjwHs0sCQBl/etrEeF/D26FAnBqkLpEVUSYbwH+vmavT0y/ZHUBZRhvRwwoT0xJ0v2fiyD/VmHvyixSw4R+t7mcYLhlmHtLNTz0CnOE/ttE1bd0FqkJwj3HdLDaSjIxFODaM93U7uhAA5vteaoos1L1FP6GDqQKk22RAY5XRj4WAhqhAbCJvMJG60NARALYhZsUal7NQnU2MqED9ACNphZapWcPwxVUALuIUwvNqxvUfo2HAtyFnlhoVd3BsSITtoA3EScWmlO3KBORiTAA+BQ0XGqVHe+xGyiATfhh29gdr3FXQgmwhzIaaJO6i+4MInoAm7CDm61a3SZ0Bg5NwD2kMaUd1H2ojXkawUpPokcic6NtVyNl1IB7ZWDZeF1eGQo2mAPbkQPCkGTcUQp2iwywhQGhbdUiUmdQCU2AHRh2rz2pVejOIaEG2EFgf2StlhH4+9VoAz9M5kbZoBZSOgeNLtAGSLc9CnC8u1cwC74Bl/kjhLuTQMA+wPPU/QmAP+OBGuAQKqnFWHxUSVg1CE56fyuiWgDmfMTSSE2Dw37fAKdmwXHv70BSz6DxaQXNDCAJIAGgEkAFMAsOfaMFhFO/MjFqBtz7K4D9ewA4+C35FgnUgqgAUQuiAkQtiAoQtSAqQNSCqAAhAyAA0A1ABwDdAHQAlqAhBI+9ThxCEALwJngNTPyzQugHoQO0ALwIJIVC6j9ACEIAQghCAP4RHBfDMTCUAigA0BNGBxjFIApAJnge+GwyqT+D8RCMgGxA49j4azStfgHtADQA0A5AAwAeAPv/DwwJYgQQHgD7oymMBjA8APbHtgA2AOABsD88APaHB8D+UILQf/AA2B8dIfR/4AGwP3aGsP8DD4D9V2IwI/QIzagJcGgMB8AwK4z5390QXhdZTCL1NWgLo/2LpiDafygHUf6dh0ExsIRqlFA0bpFZQNFKLITDw7eJpP4PpCDkH4QA0r8sNLqC02StvgQ9IXR/fgFDIhj+gBBA+kc9iOoPaQDhH9UA1D+qAah/aEGoP2hBqD9oQai/49CYFvxA0ur743Bs4A80p/4ClACy/7fFohz4jWrVD4LQE/gbgdTPwmBe8C8Uo6bAtBjmvlARovaTi0Ue6MWqn4xv/UfTvPoC1APQ/pACSP6QAkj+PwZf+w+jelj9F3yF+X825NvPkf7Qfn9wAZgfNSEqP7gAzP+Toe8rByuCPw9X+jekOFiWjU39m5HQ9hnDxP6NiAYWHUaH1r8FLaDnP4nLXTwZqf9mGMDi/+G41IWSsPjXoEPt4qhY/CuxCVXfD4dckhP60fF7ygdgffgArA8fgPV/OjaUfhQlQPVtRvvUDyF5VHyvBQIs/R8O2ZD7S+RgkfWPwPjU+lZa8tjhPQvtYulbKNEh5x+KcSG3/hg1B4eFfzxkfSzrl71HwheFti7EXO8v+hicRciXi7Y+xFxaH6KVHIOH4b8TpI11PsSUcs6l1Nraf43dai0l55xSDN5Zo39QrP8HlBRoHPXFGhgAAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6669a7f9996cf8bd308ddf00"
+  },
+  "firstName": "Miloš",
+  "lastName": "Milošević",
+  "username": "misa",
+  "password": "misa1234",
+  "email": "misa@mail.com",
+  "address": "Srbobranska 6",
+  "type": 1,
+  "phoneNumber": "0613243566",
+  "imageData": "/assets/defaultpicture.jpg"
+},
+{
+  "_id": {
+    "$oid": "666aeab327cd1a0da9ff1e92"
+  },
+  "firstName": "Marko",
+  "lastName": "Markovic",
+  "username": "mare",
+  "password": "mare123",
+  "email": "mare@gmail.com",
+  "address": "Srbobranska 6",
+  "type": 0,
+  "phoneNumber": "0657778897",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66844b5f9a210e3cabcf224a"
+  },
+  "firstName": "Ana",
+  "lastName": "Markovic",
+  "username": "ana",
+  "password": "ana123",
+  "email": "ana@gmail.com",
+  "address": "Gandijeva 140",
+  "type": 0,
+  "phoneNumber": "0635554879",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e0458e61697e4eaf28ae69"
+  },
+  "firstName": "Ivan",
+  "lastName": "Martinovic",
+  "username": "ivan02",
+  "password": "ivan123",
+  "email": "ivan02@gmai.com",
+  "address": "Dobojska 7",
+  "type": 0,
+  "phoneNumber": "0621786690",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e5b57a73f85a2bbd7cd937"
+  },
+  "firstName": "Nikola",
+  "lastName": "Jankovic",
+  "username": "nikolaa",
+  "password": "nikola123",
+  "email": "addminaddmin1510@gmail.com",
+  "address": "Pupinova 5b",
+  "type": 0,
+  "phoneNumber": "0647568832",
+  "imageData": "/assets/defaultpicture.jpg",
+  "__v": 0
+}]
